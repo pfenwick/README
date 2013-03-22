@@ -1,4 +1,4 @@
 README
 ======
 
-You're looking for github.com/pjf
+I've renamed my account. You're looking for http://github.com/pjf
